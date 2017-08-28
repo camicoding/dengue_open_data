@@ -1,0 +1,38 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:circular="http://schemas.android.com/apk/res/com.dengueapplication"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dengueapplication.EstadComTab1" >
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <com.dengueapplication.CircularProgressBar
+            android:id="@+id/circularprogressbar2"
+            style="@style/Widget.ProgressBar.Holo.CircularProgressBar"
+            android:layout_width="210dp"
+            android:layout_height="210dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerInParent="true"
+            circular:subtitle="subtitle"
+            circular:title="Title" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:gravity="center"
+            android:text="Probabilidad de tener dengue en la comuna"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="20sp" />
+
+    </RelativeLayout>
+
+</FrameLayout>

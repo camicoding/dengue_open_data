@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DengueApplication</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="usuario">Usuario:</string>
+    <string name="txtContrasena">Password:</string>
+    <string name="txtRegistro">¿No dispones de una cuenta?</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registro">Registrate aqui!</string>
+    <string name="descripcionLogo">Es la imagen preliminar del logo</string>
+    <string name="title_activity_resgistro">Resgistro</string>
+    <string name="prueba">Esta es la prueba de que funciona</string>
+    <string name="nombre">Nombres:</string>
+    <string name="apellido">Apellidos:</string>
+    <string name="RegistroMedico">Registro Medico:</string>
+    <string name="AnoGraduacion">Año de graduacion:</string>
+    <string name="especialista">Especialista</string>
+    <string name="general">General</string>
+    <string name="textoEspecialista">¿Cual es su especialidad?</string>
+    <string name="texto_capacitacion">¿Ha realizado alguna capacitación en dengue?</string>
+    <string name="textoSi">SI</string>
+    <string name="textoNo">NO</string>
+    <string name="textoContrasena">Password:</string>
+    <string name="IngresarRegistro">Registrar Usuario</string>
+    <string name="title_activity_main_home">MainHome</string>
+    <string name="textoIngresarPaciente">Ingresar Paciente</string>
+    <string name="textoMostrarMapa">Mostrar Mapa</string>
+    <string name="textoReportes">Reportes</string>
+    <string name="textoDetallesUsuario">Detalles de Usuario</string>
+    <string name="textoCerrarSesion">Cerrar Sesion!</string>
+    <string name="title_activity_ingresar_paciente">IngresarPaciente</string>
+    <string name="textoEdadPaciente">Edad:</string>
+    <string name="textoDireccion">Direccion:</string>
+    <string name="textoGenero">Genero:</string>
+    <string name="textoIPS">IPS reportada:</string>
+    <string name="textoCalcularProbabilidad">Calcular Probabilidad</string>
+    <string name="title_activity_calcular_probabilidad">CalcularProbabilidad</string>
+    <string name="textoProbSenCiudad">Probabilidad dengue sencillo por ciudad:</string>
+    <string name="textoMostrarMap">Mostrar Mapa</string>
+    <string name="title_activity_mapa">Mapa</string>
+    <string name="textoEleccionEstadistica">¿Cuáles son las estadísticas que desea ver?</string>
+    <string name="textoProbabilidadCiudad">Estadísticas por ciudad:</string>
+    <string name="textoProbabilidadComunas">Estadísticas por comunas:</string>
+    <string name="title_activity_estadisticas_ciudad">EstadisticasCiudad</string>
+    <string name="textoEstadisticaCiudad">Probabilidad de tener \\n dengue en la ciudad</string>
+    <string name="title_activity_estadisticas_comuna">EstadisticasComuna</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_estad_com_tab1">EstadComTab1</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_estadisticas_comunas">EstadisticasComunas</string>
+
+</resources>
